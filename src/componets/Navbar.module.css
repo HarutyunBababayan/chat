@@ -1,0 +1,14 @@
+.appBar {
+    background: cornflowerblue;
+    padding: 12px;
+}
+
+.toolBar {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.toolBar button {
+    padding: 5px;
+    border-radius: 5px;
+}
